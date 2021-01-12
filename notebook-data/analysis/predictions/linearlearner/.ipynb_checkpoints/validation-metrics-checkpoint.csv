@@ -1,0 +1,6 @@
+"evaluation_id","datetime","phasenumber","phasename","ofertas_total","ofertas_aceptable","ofertas_no_aceptable","percentage_aceptable","margen error horas +/-","sub_estimaciones","sobre_estimaciones"
+2dde51ac-e828-4e3e-a233-746417bbc8c8,2020-06-05 12:05:21,1,Recopilacion,20,15,5,75.00,6.0,4,1
+2dde51ac-e828-4e3e-a233-746417bbc8c8,2020-06-05 12:05:21,2,Diseno,20,15,5,75.00,6.0,4,1
+2dde51ac-e828-4e3e-a233-746417bbc8c8,2020-06-05 12:05:21,3,Implantacion,20,14,6,70.00,8.0,3,3
+2dde51ac-e828-4e3e-a233-746417bbc8c8,2020-06-05 12:05:21,4,Soporte,20,19,1,95.00,4.0,1,0
+2dde51ac-e828-4e3e-a233-746417bbc8c8,2020-06-05 12:05:21,5,Total,80,63,17,78.75,0.0,12,5

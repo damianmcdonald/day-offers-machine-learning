@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "result": {
+    "projectId": "day-offers-ml-poc",
+    "databaseURL": "https://day-offers-ml-poc.firebaseio.com",
+    "storageBucket": "day-offers-ml-poc.appspot.com",
+    "apiKey": "AIzaSyAV9hiaS4jJbd-dhyNYJVaBQ7GzmWgvwU0",
+    "authDomain": "day-offers-ml-poc.firebaseapp.com",
+    "messagingSenderId": "977262170553"
+  }
+}

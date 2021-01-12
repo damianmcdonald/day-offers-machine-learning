@@ -1,0 +1,14 @@
+flask==1.1.2
+google-cloud-storage==1.28.1
+google-cloud-error-reporting==0.34.0
+firebase-admin==4.3.0
+joblib==0.15.1
+numpy==1.18.5
+pandas==1.0.4
+python-dateutil==2.8.1
+pytz==2020.1
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+six==1.15.0
+sklearn==0.0
+threadpoolctl==2.1.0
